@@ -1,4 +1,4 @@
-# cornerstone-vtk-mpr
+# MPRDicomImage
 
 ## Commands
 
